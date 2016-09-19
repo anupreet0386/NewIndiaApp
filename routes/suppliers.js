@@ -6,34 +6,34 @@ router.get('/', function(req, res, next) {
   var supplierArray = [
   {
     "supplierId": "SP1",
-    "companyName": "abc",
+    "companyName": "efg",
     "address": "california",
     "phone":"0000000000",
-    "email":"abc@gmail.com",
+    "email":"efg@gmail.com",
     "customerId": "cs101"
   },
   {
-    "supplierId": "SP1",
-    "companyName": "abc",
+    "supplierId": "SP2",
+    "companyName": "ijk",
     "address": "california",
     "phone":"0000000000",
-    "email":"abc@gmail.com",
+    "email":"ijk@gmail.com",
     "customerId": "cs101"
   },
   {
-    "supplierId": "SP1",
-    "companyName": "abc",
+    "supplierId": "SP3",
+    "companyName": "lmp",
     "address": "california",
     "phone":"0000000000",
-    "email":"abc@gmail.com",
+    "email":"lmp@gmail.com",
     "customerId": "cs101"
   },
   {
-    "supplierId": "SP1",
-    "companyName": "abc",
+    "supplierId": "SP4",
+    "companyName": "qrt",
     "address": "california",
     "phone":"0000000000",
-    "email":"abc@gmail.com",
+    "email":"qrt@gmail.com",
     "customerId": "cs101"
   }
 ];
